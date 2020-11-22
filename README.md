@@ -1,2 +1,3 @@
-# CP_Cleaner
-All software written in Python 
+this is Windows PC Cleaner 
+Run once remove all unnecessary temporary files with 
+PC cleaner 
